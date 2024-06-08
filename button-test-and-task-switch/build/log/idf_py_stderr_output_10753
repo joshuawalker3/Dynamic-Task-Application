@@ -1,0 +1,29 @@
+[0;33m--- esp-idf-monitor 1.4.0 on /dev/ttyUSB0 115200 ---[0m
+[0;33m--- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H ---[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40086561: uxListRemove at /home/joshuawalker/esp/esp-idf/components/freertos/FreeRTOS-Kernel/list.c:216
+[0m
+[0;33m0x400014fd: strlen in ROM
+0x4000150d: strlen in ROM
+[0m
+[0;33m0x4008655e: uxListRemove at /home/joshuawalker/esp/esp-idf/components/freertos/FreeRTOS-Kernel/list.c:216
+0x40087618: vTaskDelete at /home/joshuawalker/esp/esp-idf/components/freertos/FreeRTOS-Kernel/tasks.c:1308
+0x400d5ed2: Button_Handle at /home/joshuawalker/esp/esp_projects/button-test-and-task-switch/main/button-test-and-task-switch.c:83
+0x40085ca9: vPortTaskWrapper at /home/joshuawalker/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:134
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40086561: uxListRemove at /home/joshuawalker/esp/esp-idf/components/freertos/FreeRTOS-Kernel/list.c:216
+[0m
+[0;33m0x400014fd: strlen in ROM
+0x4000150d: strlen in ROM
+[0m
+[0;33m0x4008655e: uxListRemove at /home/joshuawalker/esp/esp-idf/components/freertos/FreeRTOS-Kernel/list.c:216
+0x40087618: vTaskDelete at /home/joshuawalker/esp/esp-idf/components/freertos/FreeRTOS-Kernel/tasks.c:1308
+0x400d5ed2: Button_Handle at /home/joshuawalker/esp/esp_projects/button-test-and-task-switch/main/button-test-and-task-switch.c:83
+0x40085ca9: vPortTaskWrapper at /home/joshuawalker/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:134
+[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0m
